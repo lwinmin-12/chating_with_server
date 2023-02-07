@@ -1,0 +1,16 @@
+{
+  "name": "lab_for_work_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pub.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^4.3.7",
+    "ws": "^8.12.0"
+  }
+}
